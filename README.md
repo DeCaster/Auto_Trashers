@@ -2,12 +2,11 @@
 
 Auto Trashers is an auto rental website that allows users to browse and rent vehicles. This project is built with Next.js and requires setting up a `.env` file for API keys.
 
-1. **Secure & Simplified Login/Registration**
-   - An elegant interface for hassle-free user authentication.
-   - Start your journey in seconds with a secure login and registration process.
+1. **Secure & Simplified Home**
+   - Start your journey in seconds with a home page .
 
-   ![Login](/projectImages/login.png)
-   > A visually appealing login page ensuring secure access to your account.
+   ![Home](/auto_trasher.png)
+   
 
 ## Getting Started
 
